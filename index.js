@@ -45,3 +45,17 @@ fetchPipe('https://cdn.shopify.com/s/files/1/0510/7809/products/womensannex_half
 fetchPipe('https://cdn.shopify.com/s/files/1/0510/7809/products/womensannex_fullwidth1.jpg?v=1528428153', 'womensannex_fullwidth1')
 fetchPipe('https://cdn.shopify.com/s/files/1/0510/7809/products/womensannex_halfwidth1.jpg?v=1528428153', 'womensannex_halfwidth1')
 fetchPipe('https://cdn.shopify.com/s/files/1/0510/7809/products/womensannex_fullwidth2.jpg?v=1528428153', 'womensannex_fullwidth2')
+
+requestPipe("https://cdn.shopify.com/s/files/1/0899/0718/products/ATTAQUER_H119_ALLDAY_CLUB_JACKET_00001.png?v=1538527062", "ATTAQUER_H119_ALLDAY_CLUB_JACKET_00001")
+requestPipe("https://cdn.shopify.com/s/files/1/0899/0718/products/ATTAQUER_H119_ALLDAY_CLUB_JACKET_00002.png?v=1538527069", "ATTAQUER_H119_ALLDAY_CLUB_JACKET_00002")
+requestPipe("https://cdn.shopify.com/s/files/1/0899/0718/products/Attaquer-26.09.18---142.jpg?v=1538531839", "Attaquer-26.09.18---142")
+requestPipe("https://cdn.shopify.com/s/files/1/0899/0718/products/Attaquer-26.09.18---143.jpg?v=1538531845", "Attaquer-26.09.18---143")
+requestPipe("https://cdn.shopify.com/s/files/1/0899/0718/products/Attaquer-26.09.18---144.jpg?v=1538531853", "Attaquer-26.09.18---144")
+requestPipe("https://cdn.shopify.com/s/files/1/0899/0718/products/Attaquer-26.09.18---145.jpg?v=1538531860", "Attaquer-26.09.18---145")
+
+fetchPipe("https://cdn.shopify.com/s/files/1/0899/0718/products/ATTAQUER_H119_ALLDAY_CLUB_JACKET_00001.png?v=1538527062", "ATTAQUER_H119_ALLDAY_CLUB_JACKET_00001")
+fetchPipe("https://cdn.shopify.com/s/files/1/0899/0718/products/ATTAQUER_H119_ALLDAY_CLUB_JACKET_00002.png?v=1538527069", "ATTAQUER_H119_ALLDAY_CLUB_JACKET_00002")
+fetchPipe("https://cdn.shopify.com/s/files/1/0899/0718/products/Attaquer-26.09.18---142.jpg?v=1538531839", "Attaquer-26.09.18---142")
+fetchPipe("https://cdn.shopify.com/s/files/1/0899/0718/products/Attaquer-26.09.18---143.jpg?v=1538531845", "Attaquer-26.09.18---143")
+fetchPipe("https://cdn.shopify.com/s/files/1/0899/0718/products/Attaquer-26.09.18---144.jpg?v=1538531853", "Attaquer-26.09.18---144")
+fetchPipe("https://cdn.shopify.com/s/files/1/0899/0718/products/Attaquer-26.09.18---145.jpg?v=1538531860", "Attaquer-26.09.18---145")
